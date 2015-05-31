@@ -1,0 +1,642 @@
+TPushupSoundCounter
+v7
+r0
+t294737030.014931
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B79A1A50000000000000110
+t1266262437
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+c000000004B2B3B9F00000000000000DD
+t1261124511
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004B2B538900000000002E0B30
+t1261130633
+s3017520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004B2B5328000000000000E37C
+t1261130536
+s58236
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/usr/include/stdio.h
+c000000004B2B3F100000000000003D1D
+t1261125392
+s15645
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/../PushupSoundCounterViewController.xib
+c000000004BE0FA7B000000000000642C
+t1273035387
+s25644
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/PushupSoundCounterAppDelegate.h
+c000000004BE109C6000000000000021B
+t1273039302
+s539
+i<UIKit/UIKit.h>
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/PushupSoundCounterAppDelegate.m
+c000000004BE109BC00000000000002D4
+t1273039292
+s724
+i"PushupSoundCounterAppDelegate.h"
+i"PushupSoundCounterViewController.h"
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/PushupSoundCounterViewController.h
+c000000004BE109CC0000000000000223
+t1273039308
+s547
+i<UIKit/UIKit.h>
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/PushupSoundCounterViewController.m
+c000000004BE109D7000000000000055E
+t1273039319
+s1374
+i"PushupSoundCounterViewController.h"
+i"first.h"
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/first.h
+c000000004BE109DE0000000000000503
+t1273039326
+s1283
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioServices.h>
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/first.m
+c000000004BE109E500000000000011C5
+t1273039333
+s4549
+i"first.h"
+i"PushupSoundCounterViewController.h"
+i<AudioToolbox/AudioServices.h>
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/first.xib
+c000000004BE10AE900000000000059D9
+t1273039593
+s23001
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/globals.h
+c000000004BDE594700000000000001BD
+t1272863047
+s445
+i<Foundation/Foundation.h>
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/globals.m
+c000000004BDE5B6C00000000000001B8
+t1272863596
+s440
+i"globals.h"
+i<stdio.h>
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/second.h
+c000000004BE0F7A100000000000000D5
+t1273034657
+s213
+i<UIKit/UIKit.h>
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/second.m
+c000000004BE0F7A10000000000000583
+t1273034657
+s1411
+i"second.h"
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/second.xib
+c000000004BE0F7A1000000000000184D
+t1273034657
+s6221
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Counts.plist
+c000000004BE10455000000000000011C
+t1273037909
+s284
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Default.png
+c000000004BE0E4620000000000006B6D
+t1273029730
+s27501
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/MainWindow.xib
+c000000004BE0E7DE00000000000026C5
+t1273030622
+s9925
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/PushupSoundCounterViewController.xib
+c000000004BE0F890000000000000643A
+t1273034896
+s25658
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/PushupSoundCounterViewControllerO.xib
+c000000004BE0E7DE0000000000001A71
+t1273030622
+s6769
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/PushupSoundCounter_Prefix.pch
+c000000004BE0E7DE00000000000000CD
+t1273030622
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/applause.aif
+c000000003F96B48A0000000000008C84
+t1066841226
+s35972
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/applause.aiff
+c000000003F96B48A0000000000008C84
+t1066841226
+s35972
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app.dSYM
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/Counts.plist
+t1273039608
+s76
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/Default.png
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/Info.plist
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/MainWindow.nib
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/PkgInfo
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/PushupSoundCounter
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/PushupSoundCounterViewController.nib
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/PushupSoundCounterViewControllerO.nib
+t1273031185
+s1151
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/ResourceRules.plist
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/applause.aif
+t1273031066
+s35972
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/applause.aiff
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/drums.aiff
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/first.nib
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/iPushupProximityCounterViewController.nib
+t1273031066
+s3997
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/icon2.png
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/second.nib
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/space1.aiff
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/space2.aiff
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/PushupSoundCounter.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/PushupSoundCounterAppDelegate.o
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/PushupSoundCounterViewController.o
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/first.o
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/globals.o
+t1273031067
+s8760
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/second.o
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter.xcent
+t2
+s0
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/drums.aiff
+c000000003F96AEE8000000000000D50A
+t1066839784
+s54538
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/iPushupProximityCounterViewController.xib
+c000000004BD278AD000000000000621F
+t1272084653
+s25119
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/icon2.png
+c000000004BD275020000000000000FB8
+t1272083714
+s4024
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/main.m
+c000000004BE0E7DE000000000000016E
+t1273030622
+s366
+i<UIKit/UIKit.h>
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/space1.aiff
+c000000004BD26838000000000003E8B0
+t1272080440
+s256176
+
+N/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/space2.aiff
+c000000004BD26863000000000001D0B0
+t1272080483
+s118960
+
+N/Users/anthonydestefano/Library/MobileDevice/Provisioning Profiles/B20D1D6F-9459-42FC-A8A6-42A755E3BD25.mobileprovision
+c000000004B9FEE2D0000000000001C05
+t1268772397
+s7173
+
+N/Users/anthonydestefano/Library/MobileDevice/Provisioning Profiles/BA59B909-8185-4BD7-920C-78D929782D7A.mobileprovision
+c000000004BD10EF20000000000001B80
+t1271992050
+s7040
+
+N/var/folders/vt/vtPIzQSwEqK-r+aIsBcAo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushupSoundCounter_Prefix-fcesotnlfrwwbpgslxydjjxgjiri/PushupSoundCounter_Prefix.pch.gch
+t2
+s0
+
+NPushupSoundCounter-Info.plist
+c000000004BE11D450000000000000396
+t1273044293
+s918
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294737029#294737030#0(0"0(0#1#0"4300911832#0"0#
+
+CCodeSign /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app
+s294732434.820486
+e294732434.970675
+r1
+xCodeSign
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app
+o/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app: replacing existing signature
+lSLF07#2@52"CodeSign build/Debug-iphoneos/PushupSoundCounter.app294732434#294732434#0(142"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app: replacing existing signature0(0#0#111"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app4300911832#905"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/codesign -f -s "iPhone Developer: Anthony DeStefano (KXMW22BM7S)" --resource-rules=/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/ResourceRules.plist --entitlements /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter.xcent /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app0#
+
+CCompileC build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/PushupSoundCounterAppDelegate.o /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/PushupSoundCounterAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s294732409.059474
+e294732409.149558
+r1
+xCompileC
+xbuild/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/PushupSoundCounterAppDelegate.o
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/PushupSoundCounterAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/PushupSoundCounterAppDelegate.m294732409#294732409#0(0"0(0#0#107"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/PushupSoundCounterAppDelegate.m4300911832#2387"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-generated-files.hmap -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-own-target-headers.hmap -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-all-target-headers.hmap -iquote /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-project-headers.hmap -F/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/include -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/DerivedSources/armv6 -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/DerivedSources -include /var/folders/vt/vtPIzQSwEqK-r+aIsBcAo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushupSoundCounter_Prefix-fcesotnlfrwwbpgslxydjjxgjiri/PushupSoundCounter_Prefix.pch -c /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/PushupSoundCounterAppDelegate.m -o /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/PushupSoundCounterAppDelegate.o0#
+
+CCompileC build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/PushupSoundCounterViewController.o /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/PushupSoundCounterViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s294732409.123307
+e294732409.265480
+r1
+xCompileC
+xbuild/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/PushupSoundCounterViewController.o
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/PushupSoundCounterViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/PushupSoundCounterViewController.m294732409#294732409#0(0"0(0#0#110"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/PushupSoundCounterViewController.m4300911832#2393"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-generated-files.hmap -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-own-target-headers.hmap -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-all-target-headers.hmap -iquote /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-project-headers.hmap -F/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/include -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/DerivedSources/armv6 -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/DerivedSources -include /var/folders/vt/vtPIzQSwEqK-r+aIsBcAo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushupSoundCounter_Prefix-fcesotnlfrwwbpgslxydjjxgjiri/PushupSoundCounter_Prefix.pch -c /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/PushupSoundCounterViewController.m -o /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/PushupSoundCounterViewController.o0#
+
+CCompileC build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/first.o /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/first.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s294732409.149672
+e294732409.291330
+r1
+xCompileC
+xbuild/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/first.o
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/first.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/first.m294732409#294732409#0(0"0(0#0#83"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/first.m4300911832#2339"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-generated-files.hmap -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-own-target-headers.hmap -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-all-target-headers.hmap -iquote /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-project-headers.hmap -F/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/include -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/DerivedSources/armv6 -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/DerivedSources -include /var/folders/vt/vtPIzQSwEqK-r+aIsBcAo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushupSoundCounter_Prefix-fcesotnlfrwwbpgslxydjjxgjiri/PushupSoundCounter_Prefix.pch -c /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/first.m -o /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/first.o0#
+
+CCompileC build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/globals.o /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/globals.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s294723867.696174
+e294723867.756822
+r1
+xCompileC
+xbuild/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/globals.o
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/globals.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/globals.m294723867#294723867#0(0"0(0#0#85"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/globals.m4300911832#2343"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-generated-files.hmap -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-own-target-headers.hmap -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-all-target-headers.hmap -iquote /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-project-headers.hmap -F/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/include -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/DerivedSources/armv6 -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/DerivedSources -include /var/folders/vt/vtPIzQSwEqK-r+aIsBcAo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushupSoundCounter_Prefix-fcesotnlfrwwbpgslxydjjxgjiri/PushupSoundCounter_Prefix.pch -c /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/globals.m -o /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/globals.o0#
+
+CCompileC build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/main.o /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s294732409.058268
+e294732409.123188
+r1
+xCompileC
+xbuild/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/main.o
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/main.m294732409#294732409#0(0"0(0#0#74"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/main.m4300911832#2329"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-generated-files.hmap -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-own-target-headers.hmap -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-all-target-headers.hmap -iquote /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-project-headers.hmap -F/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/include -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/DerivedSources/armv6 -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/DerivedSources -include /var/folders/vt/vtPIzQSwEqK-r+aIsBcAo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushupSoundCounter_Prefix-fcesotnlfrwwbpgslxydjjxgjiri/PushupSoundCounter_Prefix.pch -c /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/main.m -o /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/second.o /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/second.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/../PushupSoundCounterViewController.xib
+s294732407.760626
+e294732408.214952
+r1
+xCompileXIB
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/../PushupSoundCounterViewController.xib
+lSLF07#2@58"CompileXIB Classes/../PushupSoundCounterViewController.xib294732407#294732408#0(0"0(0#0#115"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/../PushupSoundCounterViewController.xib4300911832#683"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/PushupSoundCounterViewController.nib /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/../PushupSoundCounterViewController.xib0#
+
+CCompileXIB /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/first.xib
+s294732407.932342
+e294732408.325413
+r1
+xCompileXIB
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/first.xib
+lSLF07#2@28"CompileXIB Classes/first.xib294732407#294732408#0(0"0(0#0#85"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/first.xib4300911832#626"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/first.nib /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/first.xib0#
+
+CCompileXIB /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Classes/second.xib
+r0
+
+CCompileXIB /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/MainWindow.xib
+s294732407.550907
+e294732407.905871
+r1
+xCompileXIB
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294732407#294732407#0(0"0(0#0#82"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/MainWindow.xib4300911832#628"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/MainWindow.nib /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/MainWindow.xib0#
+
+CCompileXIB /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/PushupSoundCounterViewController.xib
+s294727713.259732
+e294727713.631305
+r1
+xCompileXIB
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/PushupSoundCounterViewController.xib
+lSLF07#2@47"CompileXIB PushupSoundCounterViewController.xib294727713#294727713#0(0"0(0#0#104"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/PushupSoundCounterViewController.xib4300911832#672"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/PushupSoundCounterViewController.nib /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/PushupSoundCounterViewController.xib0#
+
+CCompileXIB /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/PushupSoundCounterViewControllerO.xib
+s294723985.409808
+e294723985.665617
+r1
+xCompileXIB
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/PushupSoundCounterViewControllerO.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@48"CompileXIB PushupSoundCounterViewControllerO.xib294723985#294723985#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#105"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/PushupSoundCounterViewControllerO.xib4300911832#674"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/PushupSoundCounterViewControllerO.nib /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/PushupSoundCounterViewControllerO.xib0#
+
+CCompileXIB /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/iPushupProximityCounterViewController.xib
+s294723866.084963
+e294723866.475524
+r1
+xCompileXIB
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/iPushupProximityCounterViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@52"CompileXIB iPushupProximityCounterViewController.xib294723866#294723866#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#109"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/iPushupProximityCounterViewController.xib4300911832#682"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/iPushupProximityCounterViewController.nib /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/iPushupProximityCounterViewController.xib0#
+
+CCopyPNGFile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/Default.png Default.png
+s294732407.593956
+e294732407.756705
+r1
+xCopyPNGFile
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/Default.png
+xDefault.png
+lSLF07#2@79"CopyPNGFile build/Debug-iphoneos/PushupSoundCounter.app/Default.png Default.png294732407#294732407#0(0"0(0#0#79"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Default.png4300911832#722"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Default.png /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/Default.png0#
+
+CCopyPNGFile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/icon2.png icon2.png
+s294732407.551750
+e294732407.593854
+r1
+xCopyPNGFile
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/icon2.png
+xicon2.png
+lSLF07#2@75"CopyPNGFile build/Debug-iphoneos/PushupSoundCounter.app/icon2.png icon2.png294732407#294732407#0(0"0(0#0#77"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/icon2.png4300911832#718"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/icon2.png /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/icon2.png0#
+
+CCopyPlistFile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/Counts.plist Counts.plist
+s294732408.215058
+e294732408.238086
+r1
+xCopyPlistFile
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/Counts.plist
+xCounts.plist
+lSLF07#2@17"Copy Counts.plist294732408#294732408#0(0"0(0#0#80"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/Counts.plist4300911832#504"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Counts.plist --outdir /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app0#
+
+CCpResource build/Debug-iphoneos/PushupSoundCounter.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+s294732407.542954
+e294732407.549134
+r1
+xCpResource
+xbuild/Debug-iphoneos/PushupSoundCounter.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist294732407#294732407#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist4300911832#613"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app0#
+
+CCpResource build/Debug-iphoneos/PushupSoundCounter.app/applause.aif applause.aif
+s294723866.083312
+e294723866.090265
+r1
+xCpResource
+xbuild/Debug-iphoneos/PushupSoundCounter.app/applause.aif
+xapplause.aif
+lSLF07#2@17"Copy applause.aif294723866#294723866#0(0"0(0#0#80"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/applause.aif4300911832#602"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/applause.aif /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app0#
+
+CCpResource build/Debug-iphoneos/PushupSoundCounter.app/applause.aiff applause.aiff
+s294732407.758749
+e294732407.767625
+r1
+xCpResource
+xbuild/Debug-iphoneos/PushupSoundCounter.app/applause.aiff
+xapplause.aiff
+lSLF07#2@18"Copy applause.aiff294732407#294732407#0(0"0(0#0#81"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/applause.aiff4300911832#603"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/applause.aiff /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app0#
+
+CCpResource build/Debug-iphoneos/PushupSoundCounter.app/drums.aiff drums.aiff
+s294732407.756800
+e294732407.764058
+r1
+xCpResource
+xbuild/Debug-iphoneos/PushupSoundCounter.app/drums.aiff
+xdrums.aiff
+lSLF07#2@15"Copy drums.aiff294732407#294732407#0(0"0(0#0#78"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/drums.aiff4300911832#600"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/drums.aiff /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app0#
+
+CCpResource build/Debug-iphoneos/PushupSoundCounter.app/space1.aiff space1.aiff
+s294732407.921659
+e294732407.938960
+r1
+xCpResource
+xbuild/Debug-iphoneos/PushupSoundCounter.app/space1.aiff
+xspace1.aiff
+lSLF07#2@16"Copy space1.aiff294732407#294732407#0(0"0(0#0#79"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/space1.aiff4300911832#601"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/space1.aiff /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app0#
+
+CCpResource build/Debug-iphoneos/PushupSoundCounter.app/space2.aiff space2.aiff
+s294732407.905964
+e294732407.938838
+r1
+xCpResource
+xbuild/Debug-iphoneos/PushupSoundCounter.app/space2.aiff
+xspace2.aiff
+lSLF07#2@16"Copy space2.aiff294732407#294732407#0(0"0(0#0#79"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/space2.aiff4300911832#601"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/space2.aiff /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app0#
+
+CGenerateDSYMFile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app.dSYM /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/PushupSoundCounter
+s294732409.325437
+e294732409.345904
+r1
+xGenerateDSYMFile
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app.dSYM
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/PushupSoundCounter
+lSLF07#2@128"GenerateDSYMFile build/Debug-iphoneos/PushupSoundCounter.app.dSYM build/Debug-iphoneos/PushupSoundCounter.app/PushupSoundCounter294732409#294732409#0(0"0(0#0#130"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/PushupSoundCounter4300911832#544"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/PushupSoundCounter -o /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app.dSYM0#
+
+CLd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/PushupSoundCounter normal armv6
+s294732409.291443
+e294732409.325334
+r1
+xLd
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/PushupSoundCounter
+xnormal
+xarmv6
+lSLF07#2@135"Link /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/PushupSoundCounter294732409#294732409#0(0"0(0#0#0"4300911832#1114"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -L/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos -F/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos -filelist /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/Objects-normal/armv6/PushupSoundCounter.LinkFileList -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -o /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/PushupSoundCounter0#
+
+CProcessInfoPlistFile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/Info.plist PushupSoundCounter-Info.plist
+s294732407.543937
+e294732407.550788
+r1
+xProcessInfoPlistFile
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/Info.plist
+xPushupSoundCounter-Info.plist
+lSLF07#2@37"Process PushupSoundCounter-Info.plist294732407#294732407#0(0"0(0#0#97"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/PushupSoundCounter-Info.plist4300911832#784"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility PushupSoundCounter-Info.plist -genpkginfo /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/ResourceRules.plist -o /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/Info.plist0#
+
+CProcessPCH /var/folders/vt/vtPIzQSwEqK-r+aIsBcAo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushupSoundCounter_Prefix-fcesotnlfrwwbpgslxydjjxgjiri/PushupSoundCounter_Prefix.pch.gch PushupSoundCounter_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s294732408.325541
+e294732409.058051
+r1
+xProcessPCH
+x/var/folders/vt/vtPIzQSwEqK-r+aIsBcAo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushupSoundCounter_Prefix-fcesotnlfrwwbpgslxydjjxgjiri/PushupSoundCounter_Prefix.pch.gch
+xPushupSoundCounter_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile PushupSoundCounter_Prefix.pch294732408#294732409#0(0"0(0#0#97"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/PushupSoundCounter_Prefix.pch4300911832#2187"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-generated-files.hmap -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-own-target-headers.hmap -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-all-target-headers.hmap -iquote /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter-project-headers.hmap -F/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/include -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/DerivedSources/armv6 -I/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/DerivedSources -c /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/PushupSoundCounter_Prefix.pch -o /var/folders/vt/vtPIzQSwEqK-r+aIsBcAo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushupSoundCounter_Prefix-fcesotnlfrwwbpgslxydjjxgjiri/PushupSoundCounter_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/anthonydestefano/Library/MobileDevice/Provisioning Profiles/B20D1D6F-9459-42FC-A8A6-42A755E3BD25.mobileprovision" /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/embedded.mobileprovision
+s294732409.346027
+e294732409.350768
+r1
+xProcessProductPackaging
+x/Users/anthonydestefano/Library/MobileDevice/Provisioning Profiles/B20D1D6F-9459-42FC-A8A6-42A755E3BD25.mobileprovision
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/embedded.mobileprovision
+lSLF07#2@214"ProcessProductPackaging "/Users/anthonydestefano/Library/MobileDevice/Provisioning Profiles/B20D1D6F-9459-42FC-A8A6-42A755E3BD25.mobileprovision" build/Debug-iphoneos/PushupSoundCounter.app/embedded.mobileprovision294732409#294732409#0(0"0(0#0#136"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/embedded.mobileprovision4300911832#565"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> "/Users/anthonydestefano/Library/MobileDevice/Provisioning Profiles/B20D1D6F-9459-42FC-A8A6-42A755E3BD25.mobileprovision" -o /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/anthonydestefano/Library/MobileDevice/Provisioning Profiles/BA59B909-8185-4BD7-920C-78D929782D7A.mobileprovision" /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter.xcent
+s294732409.355622
+e294732409.379621
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter.xcent
+lSLF07#2@210"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter.xcent294732409#294732409#0(0"0(0#0#163"/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter.xcent4300911832#587"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/PushupSoundCounter.build/Debug-iphoneos/PushupSoundCounter.build/PushupSoundCounter.xcent0#
+
+CTouch /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app
+s294732409.350859
+e294732409.355512
+r1
+xTouch
+x/Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app
+lSLF07#2@117"Touch /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app294732409#294732409#0(0"0(0#0#0"4300911832#395"    cd /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/anthonydestefano/Desktop/iPhoneProduction/PushupSoundCounter/build/Debug-iphoneos/PushupSoundCounter.app0#
+
