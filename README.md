@@ -9,17 +9,17 @@ You can focus on your breathing and proper form instead of counting. Place the p
 
 Although it was an undocumented feature, after some digging around I found the actual code to capture the proximity sensor events was very simple:
 
-/** setup proxomity device */
+`/** setup proxomity device */
 	UIDevice *device = [UIDevice currentDevice];
 	device.proximityMonitoringEnabled = YES;
 	if (device.proximityMonitoringEnabled == YES){
 		[[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(proximityChanged:) name:@"UIDeviceProximityStateDidChangeNotification" object:device];
-	}
+	}`
 	
 	Then after that it was simply counting them and updating a simple UI:
 	
 	/** record pushup */
-- (void) proximityChanged:(NSNotification *)notification {
+`(void) proximityChanged:(NSNotification *)notification {
 	
 	
 	UIDevice *device = [notification object];
@@ -52,7 +52,7 @@ Although it was an undocumented feature, after some digging around I found the a
 		
 	}	
 	
-}
+}`
 
 	
 	
